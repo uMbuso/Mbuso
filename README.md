@@ -18,12 +18,11 @@ I am passionate about building scalable and maintainable software solutions. I c
 ## Key Projects
 
 - **FrostTech:** An ASP.NET Core and Angular-based application for managing commercial fridge allocations with role-based access control and workflow management.
-- **TikTok Automated Fortune Teller:** An automation tool built with [technologies you used] to generate TikTok content insights.
+- **TikTok Automated Fortune Teller:** An automation tool to send users fortune messages with each gift that the user sends.
 
 ## Contact
 
-Feel free to connect with me on LinkedIn www.linkedin.com/in/mbuso-nkosi-a2333411b or reach out via email at your.email@example.com.
-
+Feel free to connect with me on LinkedIn www.linkedin.com/in/mbuso-nkosi-a2333411b or reach out via email at mbusonkosi26@gmail.com
 ---
 
 *Thank you for visiting my profile!*
